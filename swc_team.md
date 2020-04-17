@@ -7,5 +7,5 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 ### Sample
 
 1. [LOKNATH KUMAR](https://github.com/aiBotShubham)
-   - *Frameworks* : Django, HTML, CSS, React
+   - *Frameworks* : Django, HTML, CSS, JavaScript
    - *email* : loknath@iitg.ac.in
